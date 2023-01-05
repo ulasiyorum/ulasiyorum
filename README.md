@@ -16,4 +16,6 @@ Link to My [Play Store Profile](https://play.google.com/store/apps/developer?id=
 Link to My [Personal Website](https://verdantdev.co/)
 
 - 📫 How to reach me: ulasgergerli@gmail.com / Discord: TheVerdant#7874
-<img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ulasiyorum&show_icons=true&theme=cobalt" />     <img aling="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulasiyorum&layout=compact" />
+<br>
+
+![](https://media.tenor.com/g83wRE1adLwAAAAd/arrow-crisis-on-infinite-earths.gif)
