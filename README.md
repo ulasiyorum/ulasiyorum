@@ -1,7 +1,7 @@
 ### Hi there I am Ulaş 👋
 
 - I am a CSE student at [Akdeniz University](http://muhendislik.akdeniz.edu.tr). 
-- I develop mobile apps and games with C# language.
+- I develop apps & games with .NET framework, spesifically C# language.
 - I am currently learning to develop web software using HTML, CSS, JavaScript and React.
 - Creating a game with a good story and graphics, that has a decent amount of playtime with good mechanics is my dream.
 
