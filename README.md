@@ -4,7 +4,6 @@
 - I develop apps & games with .NET framework, spesifically C# language.
 - I am proficient in all areas of C# programming language.
 - I am currently focusing on back-end development.
-- I also work with front-end technologies such as ReactJS.
 - Creating a game with a good story and graphics, that has a decent amount of playtime with good mechanics is my dream.
 
 <h3 align="left">Languages and Tools:</h3>
