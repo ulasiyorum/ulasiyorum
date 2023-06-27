@@ -1,4 +1,5 @@
 ### Hi there I am Ulaş 👋
+[My LinkedIn](https://www.linkedin.com/in/ulasgergerli/)
 
 - I am a CSE student at [Akdeniz University](http://muhendislik.akdeniz.edu.tr). 
 - I develop apps & games with .NET framework, spesifically C# language.
