@@ -6,9 +6,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulasiyorum&hide_progress=true&hide=python,objective-c,hack,php)](https://github.com/ulasiyorum/github-readme-stats) <br>
 Link to My [Play Store Profile](https://play.google.com/store/apps/developer?id=Verdant+Games) <br>
-Link to My [Personal Website](https://verdantdev.co/)
+Link to My [Personal Website](https://sabahiulas.com/)
 
-- 📫 How to reach me: hi@verdantdev.co
+- 📫 How to reach me: contact@sabahiulas.com
 <br>
 
 ![](https://media.tenor.com/g83wRE1adLwAAAAd/arrow-crisis-on-infinite-earths.gif)
